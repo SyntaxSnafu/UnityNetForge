@@ -1,0 +1,1192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.runtime.unity\\obj\\unitynetforge.runtime.unity.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|solutionrelative:src\\promul.runtime.unity\\obj\\unitynetforge.runtime.unity.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\UnityNetForge.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\unitynetforge.relay.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\UnityNetForge.Relay.Server.csproj|solutionrelative:src\\promul.server~\\unitynetforge.relay.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\bruno api collection\\bruno.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\bruno api collection\\bruno.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\models\\sessions\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\models\\sessions\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\pages\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\pages\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\relay\\sessions\\relaysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\relay\\sessions\\relaysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\relay\\relayserverhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\relay\\relayserverhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\relay\\relayserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\relay\\relayserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.server~\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB23D95-CCE1-4B0A-A5E0-B25383D6F647}|src\\Promul.Server~\\Promul.Relay.Server.csproj|solutionrelative:src\\promul.server~\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\obj\\unitynetforge.relay.protocol.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\obj\\unitynetforge.relay.protocol.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\unitynetforge.relay.protocol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\unitynetforge.relay.protocol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\netdataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\netdataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\relaycontrolmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\relaycontrolmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\relaycontrolmessagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\relaycontrolmessagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.relay.protocol\\unitynetforge.relay.protocol.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C1F72513-F67A-4D09-989A-43D8A9E68D80}|src\\Promul.Relay.Protocol\\Promul.Relay.Protocol.csproj|solutionrelative:src\\promul.relay.protocol\\unitynetforge.relay.protocol.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\channels\\sequencedchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\channels\\sequencedchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\channels\\reliablechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\channels\\reliablechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\channels\\channelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\channels\\channelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\shutdownresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\shutdownresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\promulmanager.timeouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\promulmanager.timeouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\promulmanager.socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\promulmanager.socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\promulmanager.events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\promulmanager.events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\promulmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\promulmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\disconnectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\disconnectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\connectrequestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\connectrequestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\core\\connectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\core\\connectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\data\\unconnectedmessagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\data\\unconnectedmessagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\data\\disconnectreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\data\\disconnectreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\data\\disconnectinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\data\\disconnectinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\data\\compositewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\data\\compositewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\data\\compositereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\data\\compositereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\layers\\xorencryptlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\layers\\xorencryptlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\layers\\packetlayerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\layers\\packetlayerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\layers\\crc32clayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\layers\\crc32clayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\obj\\unitynetforge.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\obj\\unitynetforge.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\packets\\internal\\netconnectrequestpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\packets\\internal\\netconnectrequestpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\packets\\internal\\netconnectacceptpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\packets\\internal\\netconnectacceptpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\packets\\internal\\connectpacketbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\packets\\internal\\connectpacketbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\packets\\networkpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\packets\\networkpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\peers\\promulpeer.connectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\peers\\promulpeer.connectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\peers\\peerbase.mtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\peers\\peerbase.mtu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\peers\\peerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\peers\\peerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\peers\\outgoingpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\peers\\outgoingpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\peers\\incomingpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\peers\\incomingpeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\preserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\preserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\ntprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\ntprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\ntppacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\ntppacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\netutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\netutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\netconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\netconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\fastbitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\fastbitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\utils\\crc32c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\utils\\crc32c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\connectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\connectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\ipendpointcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\ipendpointcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\netdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\netdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\netstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\netstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\pausedsocketfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\pausedsocketfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul\\unitynetforge.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{009A3A68-30A0-44EB-9B42-8FCB6BD89195}|src\\Promul\\UnityNetForge.csproj|solutionrelative:src\\promul\\unitynetforge.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.runtime.unity\\unitynetforgetransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|solutionrelative:src\\promul.runtime.unity\\unitynetforgetransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.runtime.unity\\unitynetforge.runtime.unity.csproj.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|solutionrelative:src\\promul.runtime.unity\\unitynetforge.runtime.unity.csproj.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.runtime.unity\\com.unitynetforge.netcode.transport.promul.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\Promul.Runtime.Unity.csproj|solutionrelative:src\\promul.runtime.unity\\com.unitynetforge.netcode.transport.promul.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj|c:\\users\\coles\\documents\\projects\\unitynetforge\\src\\promul.runtime.unity\\unitynetforge.runtime.unity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29457397-4CEF-4E36-92C7-F3E1101CDBA7}|src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj|solutionrelative:src\\promul.runtime.unity\\unitynetforge.runtime.unity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFwIAAAAAAAAAAD4v2gIAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-24T13:58:14.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityNetForge.Relay.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\UnityNetForge.Relay.Server.csproj",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\UnityNetForge.Relay.Server.csproj",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\UnityNetForge.Relay.Server.csproj",
+              "RelativeToolTip": "src\\Promul.Server~\\UnityNetForge.Relay.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T13:57:20.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bruno.json",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Bruno API Collection\\bruno.json",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Bruno API Collection\\bruno.json",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Bruno API Collection\\bruno.json",
+              "RelativeToolTip": "src\\Promul.Server~\\Bruno API Collection\\bruno.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:56:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "src\\Promul.Server~\\Controllers\\SessionController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:56:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Models\\Sessions\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Models\\Sessions\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Models\\Sessions\\SessionInfo.cs",
+              "RelativeToolTip": "src\\Promul.Server~\\Models\\Sessions\\SessionInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:56:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Pages\\Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Pages\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Pages\\Layout.cshtml",
+              "RelativeToolTip": "src\\Promul.Server~\\Pages\\Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:55:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Pages\\Index.cshtml",
+              "RelativeToolTip": "src\\Promul.Server~\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:55:27.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelaySession.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Relay\\Sessions\\RelaySession.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Relay\\Sessions\\RelaySession.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Relay\\Sessions\\RelaySession.cs",
+              "RelativeToolTip": "src\\Promul.Server~\\Relay\\Sessions\\RelaySession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:55:07.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayServerHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Relay\\RelayServerHostedService.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Relay\\RelayServerHostedService.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Relay\\RelayServerHostedService.cs",
+              "RelativeToolTip": "src\\Promul.Server~\\Relay\\RelayServerHostedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:54:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayServer.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Relay\\RelayServer.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Relay\\RelayServer.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Relay\\RelayServer.cs",
+              "RelativeToolTip": "src\\Promul.Server~\\Relay\\RelayServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:54:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Dockerfile",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Dockerfile",
+              "RelativeToolTip": "src\\Promul.Server~\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T13:54:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Server~\\Program.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Server~\\Program.cs",
+              "RelativeToolTip": "src\\Promul.Server~\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:53:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnityNetForge.Relay.Protocol.csproj",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.csproj",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.csproj",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.csproj",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T13:52:25.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\obj\\project.nuget.cache",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-03-24T13:51:45.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnityNetForge.Relay.Protocol.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\obj\\UnityNetForge.Relay.Protocol.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\obj\\UnityNetForge.Relay.Protocol.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\obj\\UnityNetForge.Relay.Protocol.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\obj\\UnityNetForge.Relay.Protocol.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:51:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityNetForge.Runtime.Unity.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\obj\\UnityNetForge.Runtime.Unity.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "src\\Promul.Runtime.Unity\\obj\\UnityNetForge.Runtime.Unity.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\obj\\UnityNetForge.Runtime.Unity.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "src\\Promul.Runtime.Unity\\obj\\UnityNetForge.Runtime.Unity.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:30:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\obj\\project.assets.json",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\obj\\project.assets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:50:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NetDataExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\NetDataExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\NetDataExtensions.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\NetDataExtensions.cs",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\NetDataExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:50:15.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnityNetForge.Relay.Protocol.asmdef",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.asmdef",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.asmdef",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.asmdef",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\UnityNetForge.Relay.Protocol.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-03-24T13:49:53.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RelayControlMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\RelayControlMessage.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\RelayControlMessage.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\RelayControlMessage.cs",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\RelayControlMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:49:26.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RelayControlMessageType.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\RelayControlMessageType.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Relay.Protocol\\RelayControlMessageType.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Relay.Protocol\\RelayControlMessageType.cs",
+              "RelativeToolTip": "src\\Promul.Relay.Protocol\\RelayControlMessageType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:49:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SequencedChannel.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Channels\\SequencedChannel.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Channels\\SequencedChannel.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Channels\\SequencedChannel.cs",
+              "RelativeToolTip": "src\\Promul\\Channels\\SequencedChannel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:48:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReliableChannel.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Channels\\ReliableChannel.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Channels\\ReliableChannel.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Channels\\ReliableChannel.cs",
+              "RelativeToolTip": "src\\Promul\\Channels\\ReliableChannel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:48:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChannelBase.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Channels\\ChannelBase.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Channels\\ChannelBase.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Channels\\ChannelBase.cs",
+              "RelativeToolTip": "src\\Promul\\Channels\\ChannelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShutdownResult.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\ShutdownResult.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\ShutdownResult.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\ShutdownResult.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\ShutdownResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:44.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PromulManager.Timeouts.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.Timeouts.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\PromulManager.Timeouts.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.Timeouts.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\PromulManager.Timeouts.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:32.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PromulManager.Socket.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.Socket.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\PromulManager.Socket.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.Socket.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\PromulManager.Socket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:07.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PromulManager.Events.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.Events.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\PromulManager.Events.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.Events.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\PromulManager.Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:46:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PromulManager.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\PromulManager.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\PromulManager.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\PromulManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:58.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DisconnectResult.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\DisconnectResult.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\DisconnectResult.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\DisconnectResult.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\DisconnectResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:51.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConnectRequestResult.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\ConnectRequestResult.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\ConnectRequestResult.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\ConnectRequestResult.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\ConnectRequestResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConnectionState.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\ConnectionState.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Core\\ConnectionState.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Core\\ConnectionState.cs",
+              "RelativeToolTip": "src\\Promul\\Core\\ConnectionState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:36.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UnconnectedMessageType.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\UnconnectedMessageType.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Data\\UnconnectedMessageType.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\UnconnectedMessageType.cs",
+              "RelativeToolTip": "src\\Promul\\Data\\UnconnectedMessageType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DisconnectReason.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\DisconnectReason.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Data\\DisconnectReason.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\DisconnectReason.cs",
+              "RelativeToolTip": "src\\Promul\\Data\\DisconnectReason.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:18.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DisconnectInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\DisconnectInfo.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Data\\DisconnectInfo.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\DisconnectInfo.cs",
+              "RelativeToolTip": "src\\Promul\\Data\\DisconnectInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:11.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CompositeWriter.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\CompositeWriter.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Data\\CompositeWriter.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\CompositeWriter.cs",
+              "RelativeToolTip": "src\\Promul\\Data\\CompositeWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:45:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CompositeReader.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\CompositeReader.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Data\\CompositeReader.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Data\\CompositeReader.cs",
+              "RelativeToolTip": "src\\Promul\\Data\\CompositeReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:44:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "XorEncryptLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Layers\\XorEncryptLayer.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Layers\\XorEncryptLayer.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Layers\\XorEncryptLayer.cs",
+              "RelativeToolTip": "src\\Promul\\Layers\\XorEncryptLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:44:42.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PacketLayerBase.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Layers\\PacketLayerBase.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Layers\\PacketLayerBase.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Layers\\PacketLayerBase.cs",
+              "RelativeToolTip": "src\\Promul\\Layers\\PacketLayerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:44:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Crc32cLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Layers\\Crc32cLayer.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Layers\\Crc32cLayer.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Layers\\Crc32cLayer.cs",
+              "RelativeToolTip": "src\\Promul\\Layers\\Crc32cLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:44:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "src\\Promul\\obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\obj\\project.nuget.cache",
+              "RelativeToolTip": "src\\Promul\\obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-03-24T13:42:48.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UnityNetForge.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\obj\\UnityNetForge.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "src\\Promul\\obj\\UnityNetForge.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\obj\\UnityNetForge.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "src\\Promul\\obj\\UnityNetForge.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:42:32.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "src\\Promul\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\obj\\project.assets.json",
+              "RelativeToolTip": "src\\Promul\\obj\\project.assets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T13:41:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NetConnectRequestPacket.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\Internal\\NetConnectRequestPacket.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Packets\\Internal\\NetConnectRequestPacket.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\Internal\\NetConnectRequestPacket.cs",
+              "RelativeToolTip": "src\\Promul\\Packets\\Internal\\NetConnectRequestPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:41:40.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NetConnectAcceptPacket.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\Internal\\NetConnectAcceptPacket.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Packets\\Internal\\NetConnectAcceptPacket.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\Internal\\NetConnectAcceptPacket.cs",
+              "RelativeToolTip": "src\\Promul\\Packets\\Internal\\NetConnectAcceptPacket.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:41:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ConnectPacketBase.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\Internal\\ConnectPacketBase.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Packets\\Internal\\ConnectPacketBase.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\Internal\\ConnectPacketBase.cs",
+              "RelativeToolTip": "src\\Promul\\Packets\\Internal\\ConnectPacketBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:41:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NetworkPacket.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\NetworkPacket.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Packets\\NetworkPacket.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Packets\\NetworkPacket.cs",
+              "RelativeToolTip": "src\\Promul\\Packets\\NetworkPacket.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwKYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:41:06.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PromulPeer.ConnectionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\PromulPeer.ConnectionRequest.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Peers\\PromulPeer.ConnectionRequest.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\PromulPeer.ConnectionRequest.cs",
+              "RelativeToolTip": "src\\Promul\\Peers\\PromulPeer.ConnectionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:40:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PeerBase.Mtu.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\PeerBase.Mtu.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Peers\\PeerBase.Mtu.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\PeerBase.Mtu.cs",
+              "RelativeToolTip": "src\\Promul\\Peers\\PeerBase.Mtu.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:40:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PeerBase.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\PeerBase.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Peers\\PeerBase.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\PeerBase.cs",
+              "RelativeToolTip": "src\\Promul\\Peers\\PeerBase.cs",
+              "ViewState": "AQIAAE0DAAAAAAAAAAAgwF4DAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:39:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OutgoingPeer.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\OutgoingPeer.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Peers\\OutgoingPeer.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\OutgoingPeer.cs",
+              "RelativeToolTip": "src\\Promul\\Peers\\OutgoingPeer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:38:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IncomingPeer.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\IncomingPeer.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Peers\\IncomingPeer.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Peers\\IncomingPeer.cs",
+              "RelativeToolTip": "src\\Promul\\Peers\\IncomingPeer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:38:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Preserve.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\Preserve.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\Preserve.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\Preserve.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\Preserve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:38:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NtpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NtpRequest.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\NtpRequest.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NtpRequest.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\NtpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:38:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NtpPacket.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NtpPacket.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\NtpPacket.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NtpPacket.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\NtpPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:38:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NetUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NetUtils.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\NetUtils.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NetUtils.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\NetUtils.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:37:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NetConstants.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NetConstants.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\NetConstants.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\NetConstants.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\NetConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:37:30.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FastBitConverter.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\FastBitConverter.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\FastBitConverter.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\FastBitConverter.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\FastBitConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:37:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CRC32C.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\CRC32C.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\Utils\\CRC32C.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\Utils\\CRC32C.cs",
+              "RelativeToolTip": "src\\Promul\\Utils\\CRC32C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:36:56.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ConnectionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\ConnectionRequest.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\ConnectionRequest.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\ConnectionRequest.cs",
+              "RelativeToolTip": "src\\Promul\\ConnectionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:36:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IPEndPointComparer.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\IPEndPointComparer.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\IPEndPointComparer.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\IPEndPointComparer.cs",
+              "RelativeToolTip": "src\\Promul\\IPEndPointComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:36:24.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NetDebug.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\NetDebug.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\NetDebug.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\NetDebug.cs",
+              "RelativeToolTip": "src\\Promul\\NetDebug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:36:16.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "NetStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\NetStatistics.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\NetStatistics.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\NetStatistics.cs",
+              "RelativeToolTip": "src\\Promul\\NetStatistics.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAywAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:36:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PausedSocketFix.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\PausedSocketFix.cs",
+              "RelativeDocumentMoniker": "src\\Promul\\PausedSocketFix.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\PausedSocketFix.cs",
+              "RelativeToolTip": "src\\Promul\\PausedSocketFix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:35:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UnityNetForge.asmdef",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\UnityNetForge.asmdef",
+              "RelativeDocumentMoniker": "src\\Promul\\UnityNetForge.asmdef",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul\\UnityNetForge.asmdef",
+              "RelativeToolTip": "src\\Promul\\UnityNetForge.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-03-24T13:34:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "com.unitynetforge.netcode.transport.promul.asmdef",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\com.unitynetforge.netcode.transport.promul.asmdef",
+              "RelativeDocumentMoniker": "src\\Promul.Runtime.Unity\\com.unitynetforge.netcode.transport.promul.asmdef",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\com.unitynetforge.netcode.transport.promul.asmdef",
+              "RelativeToolTip": "src\\Promul.Runtime.Unity\\com.unitynetforge.netcode.transport.promul.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-03-24T13:29:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UnityNetForge.Runtime.Unity.csproj.meta",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj.meta",
+              "RelativeDocumentMoniker": "src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj.meta",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj.meta",
+              "RelativeToolTip": "src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T13:29:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UnityNetForgeTransport.cs",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\UnityNetForgeTransport.cs",
+              "RelativeDocumentMoniker": "src\\Promul.Runtime.Unity\\UnityNetForgeTransport.cs",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\UnityNetForgeTransport.cs",
+              "RelativeToolTip": "src\\Promul.Runtime.Unity\\UnityNetForgeTransport.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:28:10.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UnityNetForge.Runtime.Unity.csproj",
+              "DocumentMoniker": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj",
+              "RelativeDocumentMoniker": "src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj",
+              "ToolTip": "C:\\Users\\ColeS\\Documents\\Projects\\UnityNetForge\\src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj",
+              "RelativeToolTip": "src\\Promul.Runtime.Unity\\UnityNetForge.Runtime.Unity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T13:24:20.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

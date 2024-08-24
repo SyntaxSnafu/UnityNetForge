@@ -1,0 +1,9 @@
+{
+  "name": "com.unitynetforge.netcode.transport.unitynetforge",
+  "displayName": "UnityNetForge Transport for Netcode for GameObjects",
+  "version": "1.0.15",
+  "unity": "2019.4",
+  "description": "UnityNetForge transport for Netcode for GameObjects.",
+  "author": "Cole Osborne (Networking Solution) Jackson Rakena (transport/relay server), Ruslan Pyrch (protocol)",
+  "dependencies": {}
+}

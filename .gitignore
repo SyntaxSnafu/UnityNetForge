@@ -1,0 +1,10 @@
+.idea/
+**/obj
+**/bin
+**/obj~
+**/bin~
+obj~.meta
+bin~.meta
+bin.meta
+obj.meta
+*.log

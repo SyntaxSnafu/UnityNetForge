@@ -1,0 +1,19 @@
+{
+  "name": "UnityNetForge.Runtime",
+  "rootNamespace": "UnityNetForge.Runtime",
+  "references": [
+    "GUID:1a708d929450cf244aefd140b1190d9a",
+    "Unity.Netcode.Runtime",
+    "UnityNetForge.Relay.Protocol",
+    "UnityNetForge"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <FileAlignment>512</FileAlignment>
+        <LangVersion>8</LangVersion>
+        <Nullable>enable</Nullable>
+        <BaseOutputPath>bin~</BaseOutputPath>
+        <BaseIntermediateOutputPath>obj~</BaseIntermediateOutputPath>
+        <DefineConstants>DEBUG</DefineConstants>
+        <PackageId>UnityNetForge.Runtime.Unity</PackageId>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="UnityEngine.CoreModule">
+            <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+        </Reference>
+        <Reference Include="Unity.Netcode.Runtime">
+            <HintPath>C:\Users\ColeS\Documents\Projects\Libraries\Unity.Netcode.Runtime.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\UnityNetForge.Relay.Protocol\UnityNetForge.Relay.Protocol.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+        <Folder Include="Properties\" />
+    </ItemGroup>
+
+</Project>

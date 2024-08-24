@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  promul_relay_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: promul_relay_server
+    volumes:
+      - ./code:/app
+    command: /app/Promul.Relay.Server
+    ports:
+      - "${EXTERNAL_PORT_API}:5000"
+      - "${EXTERNAL_PORT_RELAY}:4098/udp"
